@@ -1,2 +1,2 @@
 # SYB
-gethub session
+github session
